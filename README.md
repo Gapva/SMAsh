@@ -1,4 +1,4 @@
-![image](https://github.com/Gapva/SMAsh/assets/90116898/80c28c7a-75a6-4298-b54d-fd25eaec1da5)
+![SMAshSplashR](https://github.com/Gapva/SMAsh/assets/90116898/69a91fa6-7a65-4bb3-83ae-446a33b3a961)
 
 >[!WARNING]
 >This repository is only hosting finalized builds and executables.
