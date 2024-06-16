@@ -1,7 +1,7 @@
 ![SMAshSplashR](https://github.com/Gapva/SMAsh/assets/90116898/11fe6aa4-5158-415d-828a-f0a4012ee02b)
 
 >[!WARNING]
->This repository is only hosting finalized builds and executables.
+>This repository currently only holds finalized SMAsh builds and executables.
 >The source code for SMAsh will become available at a later date.
 
 # SMAsh
